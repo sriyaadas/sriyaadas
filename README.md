@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sriya 👋
 
-<!--
-**sriyaadas/sriyaadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics major with a Finance minor @ Symbiosis University
 
-Here are some ideas to get you started:
+### Interests
+- Investment Banking
+- Valuations
+- Financial Modeling
+- Equity Research
+- Strategy & Business Analysis
+- Economics & Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+- Finance & economics projects
+- Building my GitHub portfolio
+- Learning Python for finance
+- Writing at State of Sriya
+
+### Connect With Me
+- LinkedIn: www.linkedin.com/in/sriyadas
+- Blog: https://medium.com/@StateofSriya
